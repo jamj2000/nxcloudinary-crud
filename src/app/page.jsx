@@ -4,7 +4,7 @@ import Galeria from '@/components/Galeria';
 import ImageNew from '@/components/ImageNew';
 
 
-export const dynamic = 'force-dynamic'
+// export const dynamic = 'force-dynamic'
 
 
 export default function Home() {
